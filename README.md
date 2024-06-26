@@ -27,24 +27,24 @@
 </p>
 
 
-## 🤔 I’m looking for help with ...
+## 🤔 I’m looking for help with :
 <p align="left">
   I’m looking for help with integrating machine learning models into web applications.
 </p>
 
-## 💬 Ask me about ...
+## 💬 Ask me about :
 <p align="left">
   Ask me about .NET development, full stack development, or any general programming questions.
 </p>
 
-## 📫 How to reach me: ...
+## 📫 How to reach me: 
 <p align="left">
   You can reach me via email at <a href="mailto:halamansour888222555@gmail.com">halamansour888222555@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/hala-mansour-67075321b/" target="_blank">LinkedIn</a>.
 </p>
 
 
 
-## ⚡ Fun fact: ...
+## ⚡ Fun fact: 
 <p align="left">
   I love solving puzzles and often spend my free time working on complex jigsaw puzzles.
 </p>
